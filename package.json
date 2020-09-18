@@ -1,0 +1,15 @@
+{
+  "name": "learn-jsonpointer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-json-patch": "^3.0.0-1",
+    "jsonpointer": "^4.1.0"
+  }
+}
